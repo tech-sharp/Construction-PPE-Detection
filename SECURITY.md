@@ -21,4 +21,4 @@ After a vulnerability is reported, we will:
 - Work on a patch or fix and deploy it as soon as possible.
 - Release a security update and provide details about the vulnerability in the release notes.
 
-Thank you for helping us keep the project secure!
+Thank you for helping us keep the project secure!
