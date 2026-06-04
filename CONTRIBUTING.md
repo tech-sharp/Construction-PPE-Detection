@@ -38,4 +38,4 @@ Make sure your changes don’t break the codebase. Run existing tests and add ne
 
 We appreciate your contributions and feedback!
 
-Thank you for helping improve this project!
+Thank you for helping improve this project!
